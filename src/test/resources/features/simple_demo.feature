@@ -1,3 +1,4 @@
+@etsy
 Feature: The application should be running
 
   @smoke @test1
